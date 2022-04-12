@@ -5,7 +5,7 @@ resources:
 - repo: self
 
 variables:
-  imageRepo: sampleapp
+  imageRepo: starbucksapp
   tag: '$(Build.BuildId)'
 
 stages:
